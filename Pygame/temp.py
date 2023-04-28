@@ -17,7 +17,7 @@ RED   = (255,   0,   0)
 GREEN = (  0, 255,   0)
 BLUE  = (  0,   0, 255)
 
-font = pygame.font.SysFont('monospace', 50)
+font = pygame.font.SysFont('monospace', 25)
 
 running = True
 
